@@ -1,0 +1,3 @@
+0 foodwaste-max
+1 foodwaste-min
+2 foodwaste-nil
